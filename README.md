@@ -2,69 +2,102 @@
 **SamuelPGibson/SamuelPGibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Samuel Gibson 👋
+# Samuel Gibson
 
-**Software Engineer | Founder | Guitarist**
+## Software Engineer & Entrepreneur
 
----
+Highly technical software engineer with proven entrepreneurial experience building real-world applications from concept to production. Founded and led two successful ventures demonstrating exceptional ability to translate technical expertise into marketable products.
 
-## 👨‍💻 About Me
-
-I'm a passionate software engineer from Saskatoon, Canada, currently pursuing my B.Sc. in Computer Science at the University of Saskatchewan (GPA: 3.80/4.00, expected graduation December 2025).  
-Founder & CEO of [Electric Praise Studio](https://youtu.be/t6blII5fSfY), where I build software for musicians and educators.  
-I love problem solving, open source, and blending technology with creativity.
+**Currently:** Founder & Tech Lead at Assembly Platform and Founder & CEO at Electric Praise
 
 ---
 
-## ⚡ Fun fact
+## 🚀 Current Projects
 
-I have taken off in an airplane more times than I have landed.
+### Assembly Platform
+**Founder & Tech Lead** | *June 2025 - Present*
 
----
+Networking service for pastors and ministry leaders featuring:
+- RESTful API architecture with modular database and API layers
+- Real-time messaging using Django Channels Websockets
+- Docker containerization and AWS deployment
+- **Tech Stack:** JavaScript, React, Tailwind, Python, Django, PostgreSQL, Redis, Docker, AWS
 
-## 🛠️ Technical Skills
+[🌐 Website](https://www.assembly-platform.com)
 
-- **Languages:** Python, Java, C, PHP, JavaScript, Scala
-- **Frameworks/Libraries:** Tkinter, NodeJS, Django, Selenium, NumPy, Pandas, Matplotlib
-- **Version Control:** Git
+### Electric Praise
+**Founder & CEO** | *June 2022 - Present*
 
----
+Music software company creating groundbreaking animation technology:
+- **Electric Praise Studio:** 100,000+ lines of code desktop application
+- Custom interactive Python GUI library ([ChichiTk](https://github.com/SamuelPGibson/ChichiTk))
+- 175+ guitar animation videos used by musicians worldwide
+- 300+ tablature sales in 6 months
+- **Tech Stack:** Python, Tkinter, NumPy, Pandas, Matplotlib, LilyPond, OpenCV, WhisperX, TensorFlow
 
-## 💼 Work Experience
-
-- **Founder & CEO, Electric Praise Studio** (2022–present)  
-  Built a desktop app (80,000+ lines of code) for musical chart annotation, animation, and video editing.  
-  Demo: [YouTube](https://youtu.be/t6blII5fSfY)
-
-- **Research Assistant, University of Saskatchewan** (May 2024–Aug 2024)  
-  Developed approximation algorithms for obstacle removal and pathfinding (route planning, wireless sensor networks).
-
-- **Guitar Instructor, Wilton Academy of Music** (2022–present)  
-  Teach classical, electric, and acoustic guitar privately.
-
----
-
-## 🌟 Projects
-
-- **[ChichiTk](https://github.com/SamuelPGibson/ChichiTk)**  
-  An open-source Python GUI library extending Tkinter.
+[🎵 YouTube Channel](https://www.youtube.com/@electric_praise) | [📱 App Demo](https://youtu.be/t6blII5fSfY) | [💳 Tablature Sales](https://buymeacoffee.com/electric_praise/extras)
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-- Golden Key International Honour Society (top 15% academic achievement, joined Fall 2024)
-- Dean's Honor Roll & President's Honor Roll, Lakeland College (multiple terms)
-- ACAC Academic Athletic Award & National Scholar Award, Lakeland College
+**Bachelor of Science Honours in Computer Science**  
+University of Saskatchewan | *September 2021 - December 2025*  
+Golden Key International Honour Society
 
----
-
-## 📫 Contact
-
-- **Email:** samuelpgibson12@gmail.com
-- **GitHub:** [SamuelPGibson](https://github.com/SamuelPGibson)
-- Saskatoon, SK, Canada
+**University Transfer Program**  
+Lakeland College | *September 2019 - April 2021*  
+Dean's & President's Honor Roll, ACAC Academic Athletic Award
 
 ---
 
-> *“Work harder not smarter.”*
+## 💻 Technical Skills
+
+### Programming Languages
+`Python` `C` `JavaScript` `Java` `PHP` `OCaml` `Scala`
+
+### Frameworks & Libraries
+`NumPy` `Pandas` `Matplotlib` `Tkinter` `Django` `Websockets` `NodeJS` `ReactJS`
+
+### Databases
+`PostgreSQL` `MongoDB` `CouchDB` `SQL` `Django ORM` `Redis`
+
+### Tools & Technologies
+`Git` `GitHub` `Docker` `VS Code` `Selenium` `AWS` `Cloudflare` `LaTeX` `Linux`
+
+### Core Competencies
+- **Development:** Full-stack development, API architecture, component-based development
+- **Methodology:** Agile & Scrum, Test-driven development, Version control
+- **Leadership:** Problem solving & algorithms, Stakeholder communication, Design & Documentation
+
+---
+
+## 🔬 Research Experience
+
+**Research Assistant** | University of Saskatchewan | *May 2024 - August 2024*
+
+- Collaborated with professors on computational geometry problems
+- Developed approximation algorithms for obstacle removal and path finding
+- **Achievement:** Formulated exact polynomial-time algorithm for non-crossing obstacles problem
+- **Tools:** IPE, LaTeX
+
+---
+
+## 🎸 Other Experience
+
+**Guitar Instructor** | Wilton Academy of Music | *September 2022 - Present*
+
+Teaching private lessons in classical, electric, and acoustic guitar.
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 **Email:** samuelpgibson12@gmail.com
+- 📱 **Phone:** (306) 281-3648
+- 💼 **LinkedIn:** [samuel-gibson-816b52268](https://linkedin.com/in/samuel-gibson-816b52268)
+- 🐙 **GitHub:** [SamuelPGibson](https://github.com/SamuelPGibson)
+
+---
+
+*Proven track record of taking initiative, solving complex problems, and driving projects to completion with excellence.*
