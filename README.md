@@ -23,7 +23,7 @@ Saskatoon, SK | Canadian Citizen
 - Created a desktop application for professional musicians with 1,000+ users worldwide
 - Designed and implemented a modular plugin architecture to support custom effects in Electric Praise Studio
 - Used JavaScript, TypeScript, React, and Django to build an [e-commerce website](https://electricpraise.com) for the music charts created with Electric Praise Studio, bringing in $2000 of revenue monthly
-- Started a [YouTube Channel](https://www.youtube.com/@electric_praise) with over 2 million total views that organically creates demand for Electric Praise Studio and custom sheet music
+- Started a [YouTube Channel](https://www.youtube.com/@electric_praise) with over 5 million total views that organically creates demand for Electric Praise Studio and custom sheet music
 - Developed, published, and maintained a custom interactive python GUI library to increase the development velocity of Electric Praise Studio
 - **Technology Used:** JavaScript, TypeScript, Python, Tkinter, NumPy, Pandas, Matplotlib, OpenCV
 
