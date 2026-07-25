@@ -2,9 +2,7 @@
 **SamuelPGibson/SamuelPGibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Samuel Gibson
-
-## Software Engineer
+# Samuel Gibson - Software Engineer
 
 Full-Stack Development | Deployment | Software Architecture | Agile Development
 
